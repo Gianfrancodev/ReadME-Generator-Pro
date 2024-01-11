@@ -20,8 +20,28 @@ const questions = [
         type: 'input',
         name: 'title',
         message: 'What is your project title?',
-
-    }
+    },
+    {
+        type: 'input',
+        name: 'description',
+        message: 'Write a short description about your project.',
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'Write kind of license should your project have?',
+        choices: ["None", "MIT", "Apache 2.0", "Zlib", "Mozilla 2.0", "Eclipse 1.0", "GNU GPL 3.0"],
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'What command should be run to install dependencies?',
+    },
+    {
+        type: 'input',
+        name: 'testing',
+        message: 'What command should be run to run tests?',
+    },
 
 
 
