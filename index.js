@@ -42,11 +42,16 @@ const questions = [
         name: 'testing',
         message: 'What command should be run to run tests?',
     },
-
-
-
-
-
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'What does the user need to know about using the repo?',
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'What does the user need to know about contributing to the repo?',
+    }
 ];
 
 // TODO: Create a function to write README file
