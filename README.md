@@ -15,7 +15,7 @@ This project is meant to help developers quickly create a professional README fi
 To install necessary dependencies, run the following command in the project terminal:  
    1. Clone the repo  
    ```
-   git clone git@github.com:your-username/readme-generator.git
+   git clone git@github.com:your-username/readme-generator-pro.git
    ```
   2. Install and initialize NPM packages  
    ```
