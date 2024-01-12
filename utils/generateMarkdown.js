@@ -57,10 +57,6 @@ function generateMarkdown(answers, LicenseBadge, licenseUrl) {
   Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.  
   ${answers.usage}
 
-  ## Contributors
-  Show your appreciation to those who have contributed to the project.  
-  Also state if you are open to contributions and what your requirements are for accepting them. For people who want to make changes to your project, it's helpful to have some documentation on how to get started.  
-  ${answers.contributing}
 
   ## Questions
   To view more of my work, visit my GitHub page: [GitHub: ${answers.username}](https://github.com/${answers.username})  

@@ -32,20 +32,5 @@ To install necessary dependencies, run the following command in the project term
    EX: ```What is your GitHub username?``` <code style="color : LightSkyBlue">"username"</code>
    3. Once all questions are answered, you will be able to find your newly created README file under the folder name of "user-readme".
 
-## Contributing
-   1. Fork the Project
-   2. Create your Feature Branch  
-   ```
-   git checkout -b feature/featureName
-   ```
-   3. Commit your Changes  
-   ```
-   git commit -m 'Add something featureName'
-   ```
-   4. Push to the Branch  
-   ```
-   git push origin feature/featureName
-   ```
-   5. Open a Pull Request
 
 ## Walkthrough Video Link
