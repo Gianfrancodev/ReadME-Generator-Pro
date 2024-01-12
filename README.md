@@ -34,3 +34,4 @@ To install necessary dependencies, run the following command in the project term
 
 
 ## Walkthrough Video Link
+<a href="https://drive.google.com/file/d/14FUYwoaeihYuUwgnLqObqWv1Y_K1XKJu/view" target="_blank">Screencastify Link</a>
